@@ -13,7 +13,7 @@
   
   
   
-    | ID    |  Requirements   |    Description    | Status |
+  | ID    |  Requirements   |    Description    | Status |
   |-------|---------     |----------------|----------------|
   |       |                        |                         |          
   |       |                         |                         |  
