@@ -21,7 +21,7 @@ def sangam():
     dict1 = {"key1": psnolist}
     # printing Dictionary so that user can pick anyone Unique key from dictionary
     print(dict1)
-    print("Enter Unique Ps No Of Person")
+    print("Enter Unique Ps No Of Person Unique (Keys Is In Dictionary Key1)")
     # Taking User Input For Unique Key
     ui = int(input())
     # This Part Will Check Wether User Has Inputed valid Key Or not
