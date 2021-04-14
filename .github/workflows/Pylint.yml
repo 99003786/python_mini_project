@@ -19,4 +19,4 @@ jobs:
     - name: Install pylint
       run:  sudo apt install pylint
     - name: Change folder
-      run:  cd 3_Implementation/src/
+      run:  cd 3_Implementation/src/main.py
